@@ -24,7 +24,7 @@
 	NSManagedObject *item = [NSEntityDescription insertNewObjectForEntityForName: @"Item" inManagedObjectContext: [self managedObjectContext]];
 	NSManagedObject *relatedItem = [NSEntityDescription insertNewObjectForEntityForName: @"RelatedItem" inManagedObjectContext: [self managedObjectContext]];
 	[item setValue:relatedItem forKey:@"relatedItem"];
-	[arrayController rearrangeObjects];
+//	[arrayController rearrangeObjects];
 }
 
 - (IBAction)infoAction:(id)sender {

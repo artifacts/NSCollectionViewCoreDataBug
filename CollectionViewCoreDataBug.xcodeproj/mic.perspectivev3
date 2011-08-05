@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>ActivePerspectiveName</key>
-	<string>Project</string>
+	<string>Debug</string>
 	<key>AllowedModules</key>
 	<array>
 		<dict>
@@ -297,8 +297,6 @@
 							<string>MainColumn</string>
 							<real>185</real>
 						</array>
-						<key>RubberWindowFrame</key>
-						<string>373 333 1608 982 0 0 2560 1418 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -309,8 +307,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -328,7 +324,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>0546715113EBF82B00F48644</string>
+										<string>0546716613EBF98600F48644</string>
 										<key>history</key>
 										<array>
 											<string>0546705113EBEF8F00F48644</string>
@@ -349,8 +345,6 @@
 							<dict>
 								<key>Frame</key>
 								<string>{{0, 0}, {1401, 763}}</string>
-								<key>RubberWindowFrame</key>
-								<string>373 333 1608 982 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -374,8 +368,6 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {1401, 146}}</string>
-										<key>RubberWindowFrame</key>
-										<string>373 333 1608 982 0 0 2560 1418 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -513,6 +505,8 @@
 					<dict>
 						<key>Frame</key>
 						<string>{{0, 0}, {1608, 493}}</string>
+						<key>RubberWindowFrame</key>
+						<string>730 204 1608 982 0 0 2560 1418 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugCLIModule</string>
@@ -587,7 +581,11 @@
 							</array>
 							<key>Frame</key>
 							<string>{{784, 0}, {824, 215}}</string>
+							<key>RubberWindowFrame</key>
+							<string>730 204 1608 982 0 0 2560 1418 </string>
 						</dict>
+						<key>RubberWindowFrame</key>
+						<string>730 204 1608 982 0 0 2560 1418 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugSessionModule</string>
@@ -610,14 +608,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>0546705A13EBEF9100F48644</string>
+				<string>0546715C13EBF96A00F48644</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>0546705B13EBEF9100F48644</string>
-				<string>0546705C13EBEF9100F48644</string>
-				<string>0546705D13EBEF9100F48644</string>
-				<string>0546705E13EBEF9100F48644</string>
-				<string>0546704F13EBEF8F00F48644</string>
+				<string>0546715D13EBF96A00F48644</string>
+				<string>0546715E13EBF96A00F48644</string>
+				<string>0546715F13EBF96A00F48644</string>
+				<string>0546716013EBF96A00F48644</string>
+				<string>0546716113EBF96A00F48644</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
 			<string>2</string>
@@ -651,10 +649,13 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>0546716213EBF96A00F48644</string>
+		<string>0546716313EBF96A00F48644</string>
+		<string>0546716413EBF96A00F48644</string>
 		<string>/Users/mic/Documents/XcodeProjects/CollectionViewCoreDataBug/CollectionViewCoreDataBug.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>373 333 1608 982 0 0 2560 1418 </string>
+	<string>730 204 1608 982 0 0 2560 1418 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

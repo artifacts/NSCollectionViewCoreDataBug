@@ -85,7 +85,7 @@
 		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
 		name = "MyDocument.m: 31";
 		rLen = 0;
-		rLoc = 866;
+		rLoc = 868;
 		rType = 0;
 		vrLen = 1244;
 		vrLoc = 0;
@@ -95,9 +95,39 @@
 		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
 		name = "MyDocument.m: 31";
 		rLen = 0;
-		rLoc = 866;
+		rLoc = 868;
 		rType = 0;
 		vrLen = 1244;
+		vrLoc = 0;
+	};
+	0546715B13EBF96A00F48644 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
+		name = "MyDocument.m: 27";
+		rLen = 0;
+		rLoc = 768;
+		rType = 0;
+		vrLen = 1246;
+		vrLoc = 0;
+	};
+	0546716513EBF98400F48644 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
+		name = "MyDocument.m: 27";
+		rLen = 0;
+		rLoc = 768;
+		rType = 0;
+		vrLen = 1246;
+		vrLoc = 0;
+	};
+	0546716613EBF98600F48644 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
+		name = "MyDocument.m: 27";
+		rLen = 0;
+		rLoc = 768;
+		rType = 0;
+		vrLen = 1246;
 		vrLoc = 0;
 	};
 	2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
@@ -163,6 +193,9 @@
 			0546710613EBF57800F48644 = 0546710613EBF57800F48644 /* PBXTextBookmark */;
 			0546710E13EBF7BD00F48644 = 0546710E13EBF7BD00F48644 /* PBXTextBookmark */;
 			0546715113EBF82B00F48644 /* PBXTextBookmark */ = 0546715113EBF82B00F48644 /* PBXTextBookmark */;
+			0546715B13EBF96A00F48644 /* PBXTextBookmark */ = 0546715B13EBF96A00F48644 /* PBXTextBookmark */;
+			0546716513EBF98400F48644 /* PBXTextBookmark */ = 0546716513EBF98400F48644 /* PBXTextBookmark */;
+			0546716613EBF98600F48644 /* PBXTextBookmark */ = 0546716613EBF98600F48644 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 0546703613EBECAD00F48644 /* Source Control */;
 		userBuildSettings = {
@@ -170,9 +203,9 @@
 	};
 	2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1340, 731}}";
-			sepNavSelRange = "{866, 0}";
-			sepNavVisRange = "{0, 1244}";
+			sepNavIntBoundsRect = "{{0, 0}, {1340, 708}}";
+			sepNavSelRange = "{768, 0}";
+			sepNavVisRange = "{0, 1246}";
 		};
 	};
 	2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */ = {
